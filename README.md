@@ -1,19 +1,10 @@
-# Joncarter
-Beautiful HTML,CSS and Bootstrap Portfolio
+# Tzur Ben Shoshan
 
 # Demo
-- https://joncarter.netlify.app/
+
 
 # Clone Project
-- https://github.com/SA7MAN/joncarter
-
-# Features
-- Fully Responsive
-- Mobile Navigations
-- Animated elements on scroll
-- Smooth scrolling in each section.
-- Sticky Navigation on scrolling
-- and more ..
+https://github.com/Tzur1234/Portfolio.git
 
 
 # Credit
@@ -24,4 +15,4 @@ Beautiful HTML,CSS and Bootstrap Portfolio
 
 
 # Watch more
-For more videos visit to my YouTube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
+For more videos visit to my YouTube channel. [LINK](https://www.youtube.com/channel/UCjKC5zKCAX5068hmwfmoeYg)
